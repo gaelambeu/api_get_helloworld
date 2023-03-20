@@ -1,0 +1,23 @@
+{
+  "name": "api_get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaelambeu/API_get_helloworld.git"
+  },
+  "author": "AMBEU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaelambeu/API_get_helloworld/issues"
+  },
+  "homepage": "https://github.com/gaelambeu/API_get_helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
